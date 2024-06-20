@@ -2,7 +2,7 @@
 
 **News Feed:** Your Ultimate Source for Real-Time News
 
-**Introduction**
+## Introduction
 
 **News Feed** is a sophisticated Android application designed to keep you updated with the latest news from around the world. Built with Kotlin, it leverages modern Android development principles including Clean Architecture and the MVVM pattern. The app utilizes Hilt for Dependency Injection and Room for local data storage, ensuring a robust and maintainable codebase.
 
