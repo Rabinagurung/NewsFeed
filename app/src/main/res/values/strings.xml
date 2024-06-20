@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsWave</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="news_fragment"> news fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="saved_fragment">saved fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="info_fragment">info fragment</string>
+    <string name="fab_description">Add new item</string>
+</resources>
