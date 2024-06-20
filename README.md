@@ -1,6 +1,6 @@
 # NewsFeed
 
-NewsFeed: Your Ultimate Source for Real-Time News
+**NewsFeed:** Your Ultimate Source for Real-Time News
 
 **Introduction**
 
@@ -36,7 +36,7 @@ Explore Latest News: Stay informed with the most current news articles directly 
 - Networking: Retrofit for API calls
 - Local Database: Room
 - UI Components: XML layouts
--
+
 ## Getting Started
 
 To get started with NewsFeed, follow these steps:
